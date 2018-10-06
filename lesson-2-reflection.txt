@@ -12,6 +12,9 @@ by adding only the file or files that has or have the changes
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+if you are adding some new features which is not officialy approved or as suggestions.
+branches would help that the new work will be in parallel with the main work 
+but does not affect it
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
