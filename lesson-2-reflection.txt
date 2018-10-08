@@ -17,8 +17,11 @@ branches would help that the new work will be in parallel with the main work
 but does not affect it
 How do the diagrams help you visualize the branch structure?
 it simplyfies how the branches and master looks like 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Gits can't merge if thereis a conflict in the file merging. 
+So you need to resolve the conflict manually first then add and commite the change. 
