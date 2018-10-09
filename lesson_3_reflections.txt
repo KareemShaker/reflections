@@ -8,3 +8,6 @@ A: this will give me control on when I should update my local repository.
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A: Forks are done on the github to clone or copy a repository. While clones are done localy or to clone a repository
 from github to local one. Brances are done inside one repository. 
+
+Q:What is the benefit of having a copy of the last known state of the remote stored locally?
+A: to avoid conflicts with other collaborators work
