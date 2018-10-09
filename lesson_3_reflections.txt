@@ -11,3 +11,14 @@ from github to local one. Brances are done inside one repository.
 
 Q:What is the benefit of having a copy of the last known state of the remote stored locally?
 A: to avoid conflicts with other collaborators work
+
+Q:How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: By a lot of emails exchange and sharing pool of files. It would be harder if the there are 
+many people involved and a lot of work to be shared. it would be easier if only two or max 3 persons.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+A: I would make changes on other branches when I am not sure if this change will break the master
+and also if i want to check with another developer before commiting.
+working on master is much easier if number of people work are small. But if the number of people
+is big and the work done is alot so branches is the best approach.
